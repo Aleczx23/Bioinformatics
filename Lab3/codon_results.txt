@@ -1,0 +1,83 @@
+Genome      : NC_034154.1 San Bernardo virus strain CoB37dA hypothetical protein 1, hypothetical protein 2, and hypothetical protein 3 genes, complete cds
+Length      : 9748 nucleotides
+Windows read: 9746  (sliding window of 3, step 1)
+
+All 64 codons:
+ 1. UUU (Phe )     327   3.36%
+ 2. AAA (Lys )     293   3.01%
+ 3. UUG (Leu )     283   2.90%
+ 4. GAA (Glu )     282   2.89%
+ 5. GUU (Val )     272   2.79%
+ 6. UUC (Phe )     267   2.74%
+ 7. UGA (Stop)     260   2.67%
+ 8. UGU (Cys )     239   2.45%
+ 9. AUU (Ile )     226   2.32%
+10. UCA (Ser )     213   2.19%
+11. UCU (Ser )     207   2.12%
+12. CUU (Leu )     204   2.09%
+13. GAU (Asp )     202   2.07%
+14. CGU (Arg )     199   2.04%
+15. AUG (Met )     194   1.99%
+16. AAU (Asn )     194   1.99%
+17. AGA (Arg )     193   1.98%
+18. AAG (Lys )     185   1.90%
+19. UCG (Ser )     183   1.88%
+20. AAC (Asn )     180   1.85%
+21. GUC (Val )     178   1.83%
+22. CGA (Arg )     170   1.74%
+23. GUG (Val )     163   1.67%
+24. CAA (Gln )     162   1.66%
+25. ACU (Thr )     161   1.65%
+26. UAU (Tyr )     154   1.58%
+27. UUA (Leu )     152   1.56%
+28. AUC (Ile )     152   1.56%
+29. ACG (Thr )     150   1.54%
+30. UGG (Trp )     147   1.51%
+31. CUG (Leu )     146   1.50%
+32. ACA (Thr )     144   1.48%
+33. AGU (Ser )     144   1.48%
+34. CAC (His )     141   1.45%
+35. UGC (Cys )     140   1.44%
+36. GAG (Glu )     139   1.43%
+37. CAU (His )     134   1.37%
+38. UAC (Tyr )     128   1.31%
+39. GGU (Gly )     128   1.31%
+40. CUC (Leu )     125   1.28%
+41. GAC (Asp )     122   1.25%
+42. GGA (Gly )     122   1.25%
+43. CAG (Gln )     120   1.23%
+44. UCC (Ser )     119   1.22%
+45. UAA (Stop)     116   1.19%
+46. CCG (Pro )     116   1.19%
+47. ACC (Thr )     116   1.19%
+48. GCA (Ala )     116   1.19%
+49. AUA (Ile )     112   1.15%
+50. CGC (Arg )     106   1.09%
+51. GCU (Ala )     100   1.03%
+52. GUA (Val )      97   1.00%
+53. GCG (Ala )      91   0.93%
+54. CCU (Pro )      90   0.92%
+55. AGG (Arg )      88   0.90%
+56. CUA (Leu )      83   0.85%
+57. CCA (Pro )      83   0.85%
+58. CGG (Arg )      65   0.67%
+59. AGC (Ser )      65   0.67%
+60. GGG (Gly )      60   0.62%
+61. GCC (Ala )      54   0.55%
+62. GGC (Gly )      50   0.51%
+63. CCC (Pro )      48   0.49%
+64. UAG (Stop)      46   0.47%
+
+TOP 10 codons:
+ 1. UUU (Phe )     327   3.36%
+ 2. AAA (Lys )     293   3.01%
+ 3. UUG (Leu )     283   2.90%
+ 4. GAA (Glu )     282   2.89%
+ 5. GUU (Val )     272   2.79%
+ 6. UUC (Phe )     267   2.74%
+ 7. UGA (Stop)     260   2.67%
+ 8. UGU (Cys )     239   2.45%
+ 9. AUU (Ile )     226   2.32%
+10. UCA (Ser )     213   2.19%
+
+Chart saved to top10_codons.png

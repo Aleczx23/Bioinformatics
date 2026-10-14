@@ -1,0 +1,2 @@
+The melting temperature (Tm) is the temperature at ehich one half of a particular DNA duplex will dissociate and become a single strand of DNA. Primer length and sequence are of critical importance in designing the parameters of a successful amplification. The Tm of a nucleic asset duplex increases bot with its length and with an increased CG content. A simple formula for calculation of Tm is Tm = 4(C+G) + 2(A+T).
+Make an app in any environment or programming language which is able to calculate the Tm based on an input sequence S = ATCGCGTA.
