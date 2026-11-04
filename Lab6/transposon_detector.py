@@ -1,4 +1,4 @@
-
+import os
 import random
 
 BASES = "ACGT"
@@ -128,6 +128,7 @@ def build_three_intersecting():
 
 
 def write_fasta(path, name, seq):
+    path = os.path.join(os.path.dirname(os.path.abspath(__file__)), path)
     with open(path, "w") as f:
         f.write(f">{name} length={len(seq)}\n")
         for i in range(0, len(seq), 60):
