@@ -1,0 +1,18 @@
+Sequence: L09137.2 Cloning vector pUC19c, complete sequence
+Length: 2686 bp
+
+EcoRI (G^AATTC): 1 cleavage(s)
+  cleavage positions: [396]
+  fragments (bp): [396, 2290]
+
+BamHI (G^GATCC): 1 cleavage(s)
+  cleavage positions: [417]
+  fragments (bp): [417, 2269]
+
+HindIII (A^AGCTT): 1 cleavage(s)
+  cleavage positions: [447]
+  fragments (bp): [447, 2239]
+
+EcoRI+BamHI+HindIII together: 3 cleavage(s)
+  cleavage positions: [396, 417, 447]
+  fragments (bp): [396, 21, 30, 2239]
