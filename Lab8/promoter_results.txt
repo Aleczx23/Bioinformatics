@@ -1,0 +1,37 @@
+Window = 30 bases, promoter = 1000 bases upstream of the gene start
+
+TP53: NC_000017.11:c7688490-7687491 Homo sapiens chromosome 17, GRCh38.p14 Primary Assembly
+  length: 1000 bases, windows: 971
+  whole sequence: C+G % = 50.00, IC = 25.17
+  C+G % range in windows: 16.67 - 86.67
+  IC range in windows:    16.19 - 46.50
+  center of weight: C+G % = 50.35, IC = 26.17
+
+GAPDH: NC_000012.12:6533517-6534516 Homo sapiens chromosome 12, GRCh38.p14 Primary Assembly
+  length: 1000 bases, windows: 971
+  whole sequence: C+G % = 65.70, IC = 27.75
+  C+G % range in windows: 43.33 - 86.67
+  IC range in windows:    15.88 - 49.91
+  center of weight: C+G % = 65.49, IC = 27.84
+
+ACTB: NC_000007.14:c5531601-5530602 Homo sapiens chromosome 7, GRCh38.p14 Primary Assembly
+  length: 1000 bases, windows: 971
+  whole sequence: C+G % = 65.90, IC = 27.61
+  C+G % range in windows: 36.67 - 93.33
+  IC range in windows:    15.61 - 51.60
+  center of weight: C+G % = 65.58, IC = 28.21
+
+INS: NC_000011.10:c2162209-2161210 Homo sapiens chromosome 11, GRCh38.p14 Primary Assembly
+  length: 1000 bases, windows: 971
+  whole sequence: C+G % = 67.40, IC = 28.66
+  C+G % range in windows: 50.00 - 80.00
+  IC range in windows:    17.25 - 60.14
+  center of weight: C+G % = 67.37, IC = 32.35
+
+BRCA1: NC_000017.11:c43171327-43170328 Homo sapiens chromosome 17, GRCh38.p14 Primary Assembly
+  length: 1000 bases, windows: 971
+  whole sequence: C+G % = 53.00, IC = 25.08
+  C+G % range in windows: 30.00 - 93.33
+  IC range in windows:    16.04 - 50.20
+  center of weight: C+G % = 52.91, IC = 25.35
+
